@@ -2,3 +2,8 @@ venv
 .env
 *.pyc
 *.pyo
+*.xml
+*.iml
+*.DS_Store
+.idea
+.idea/CursoDataScience.iml
